@@ -1,5 +1,6 @@
 ## Execution steps
 1. npm install
+2. npx playwright install
 2. npm run regression
 
 ## Generate allure report
